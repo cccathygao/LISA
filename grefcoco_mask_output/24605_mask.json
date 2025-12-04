@@ -1,0 +1,59 @@
+{
+    "images": [
+        {
+            "id": "24605",
+            "file_path": "grefcoco_dataset/images/24605_original.png",
+            "data_source": "https://huggingface.co/datasets/qixiangbupt/grefcoco",
+            "height": 612,
+            "width": 612,
+            "scene": "",
+            "is_longtail": false,
+            "task": "referring_segmentation",
+            "problem": "blue shirt",
+            "problem_type": {
+                "num_class": "",
+                "num_instance": ""
+            }
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": "24605",
+            "category_id": null,
+            "bbox": null,
+            "area": null,
+            "shape_type": "polygon",
+            "error_type": null,
+            "iou": 0.00031882468468238685,
+            "segmentation": [
+                [
+                    [
+                        86.0,
+                        402.0
+                    ],
+                    [
+                        86.0,
+                        404.0
+                    ],
+                    [
+                        87.0,
+                        405.0
+                    ],
+                    [
+                        89.0,
+                        405.0
+                    ],
+                    [
+                        89.0,
+                        403.0
+                    ],
+                    [
+                        88.0,
+                        402.0
+                    ]
+                ]
+            ]
+        }
+    ]
+}
